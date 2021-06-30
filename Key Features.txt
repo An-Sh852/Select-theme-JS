@@ -1,0 +1,2 @@
+1. Lets user choose theme from 4 avaliable options
+2. Responsive Hamburger-Navbar with smooth bubble effect transition for mobile devices
